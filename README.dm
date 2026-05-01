@@ -6,4 +6,5 @@ This repository contains my daily Python learning and practice.
 - Variables
 - Comments
 - Operators
-
+- Input/Output
+- Data Types
