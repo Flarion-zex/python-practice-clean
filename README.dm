@@ -8,3 +8,5 @@ This repository contains my daily Python learning and practice.
 - Operators
 - Input/Output
 - Data Types
+- Type Casting
+- Strings
