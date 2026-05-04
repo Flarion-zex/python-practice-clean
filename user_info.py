@@ -16,6 +16,7 @@ print("Name:",name)
 print("Age:", age)
 print("City:", city)
 
+
 # Conditional output
 if is_adult:
     print("\nStatus: Adult")
