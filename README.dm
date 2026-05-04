@@ -10,3 +10,15 @@ This repository contains my daily Python learning and practice.
 - Data Types
 - Type Casting
 - Strings
+
+
+
+
+
+
+
+
+
+## Projects
+
+- [User Info Mini Project](python_projects/user_info)
